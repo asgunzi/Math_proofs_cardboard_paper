@@ -6,6 +6,10 @@ This ludic tecnique is specially good for children. These math proofs will be li
 
 There are two parts: 2D puzzles, with cardboard; and 3D puzzles, with origami paper!
 
+Authors:
+- Arnaldo Gunzi
+- Erneé Kozyreff
+
 
 # Part 1 - 2D Puzzles
 
