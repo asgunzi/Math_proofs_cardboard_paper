@@ -28,6 +28,7 @@ You can show the relation of sizes of the pieces to the children.
 ## 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
 
 The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as shown below.
+
 ![](Soma_meio_esquema.PNG)
 
 ![](somameio_01.jpeg)
@@ -50,9 +51,11 @@ In this example, this is a 3 - 4 - 5 triangle
 ![](Pitagoras_moldura.jpeg)
 
 Make little squares with the 5 x 5 big square, and fit the pieces in the hypotenuse square.
+
 ![](pitagoras03.jpeg)
 
 The same pieces can fit in the legs squares, showing visually the proof.
+
 ![](pitagoras02.jpeg)
 
 
@@ -61,7 +64,7 @@ The same pieces can fit in the legs squares, showing visually the proof.
 The sum of odd integers is a square:
 1 + 3 + 5 + ... + (2*n+1) = n²
 
-![](Soma_meio_esquema.PNG)
+![](135_esquema.PNG)
 
 Here we see strips with sizes proportional to the numbers 1, 3, 5, 7.
 
@@ -85,6 +88,7 @@ Similarly, there is a nice visualization of (a+b+c)² = a² + 2ab + 2ac + 2bc + 
 
 
 Showing the pieces side by side:
+
 ![](abc_01.jpeg)
 
 ## Suggestions
@@ -93,6 +97,7 @@ Showing the pieces side by side:
 You can also try to make at home other visual proofs.
 
 Pythagoras: there are several other visual and interesting proofs. One particularly interesting and easy to be done at home is the one below.
+
 ![](pitagoras_alt.png)
 
 Sum of quarters. In the same spirit as the presented proofs, the sum of quarters is a interesting proof to be done in cardboard puzzles format:
@@ -103,7 +108,6 @@ Sum of quarters. In the same spirit as the presented proofs, the sum of quarters
 Fibonacci. The always beautiful Fibonacci sequence can be visualized using squares of sizes 1, 1, 2, 3, 5 and so on.
 
 ![](fibonacci-retangular.png)
-
 
 
 
