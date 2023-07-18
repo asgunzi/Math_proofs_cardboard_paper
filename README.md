@@ -74,7 +74,20 @@ Showing the pieces side by side:
 
 ## Suggestions
 
+
 You can also try to make at home other visual proofs.
+
+Pythagoras: there are several other visual and interesting proofs. One particularly interesting and easy to be done at home is the one below.
+![](pitagoras_alt.png)
+
+Sum of quarters. In the same spirit as the presented proofs, the sum of quarters is a interesting proof to be done in cardboard puzzles format:
+
+![](sumquarters.png)
+
+
+Fibonacci. The always beautiful Fibonacci sequence can be visualized using squares of sizes 1, 1, 2, 3, 5 and so on.
+
+![](fibo.png)
 
 
 
