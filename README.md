@@ -11,7 +11,12 @@ There are two parts: 2D puzzles, with cardboard; and 3D puzzles, with origami pa
 
 ## (a+b)² = a² + 2ab + b²
 
-The visualization of (a+b)² = a² + 2ab + b² can be showed with rectangles, where the sides are proportional to a and b.
+The visualization of (a+b)² = a² + 2ab + b² can be showed with rectangles.
+
+![](AB_esquema.PNG)
+
+The sides are proportional to a and b.
+
 
 ![](ab_01.jpeg)
 
@@ -23,6 +28,7 @@ You can show the relation of sizes of the pieces to the children.
 ## 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
 
 The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as shown below.
+![](Soma_meio_esquema.PNG)
 
 ![](somameio_01.jpeg)
 
@@ -33,6 +39,8 @@ We can see the relation of sizes of the pieces of the puzzle.
 ## Pythagorean theorem
 
 The famous Pythagorean theorem can also be a funny puzzle.
+
+![](Pitagoras_esquema.PNG)
 
 Draw the triangle rectangle in a cardboard, with squares in the legs and.
 hypotenuse.
@@ -53,6 +61,8 @@ The same pieces can fit in the legs squares, showing visually the proof.
 The sum of odd integers is a square:
 1 + 3 + 5 + ... + (2*n+1) = n²
 
+![](Soma_meio_esquema.PNG)
+
 Here we see strips with sizes proportional to the numbers 1, 3, 5, 7.
 
 ![](somaImpares_01.jpeg)
@@ -68,6 +78,9 @@ The pieces can be combined to fit a square!
 ## (a+b+c)² = a² + 2ab + 2ac + 2bc + b² + c²
 
 Similarly, there is a nice visualization of (a+b+c)² = a² + 2ab + 2ac + 2bc + b² + c²
+
+![](ABC_esquema.PNG)
+
 ![](abc_02.jpeg)
 
 
