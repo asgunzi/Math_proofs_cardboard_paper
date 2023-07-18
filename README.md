@@ -5,7 +5,7 @@ In this tutorial, we'll show Mathematical visual proofs, using paper and cardboa
 This ludic tecnique is specially good for children. These math proofs will be like puzzles.
 
 
-## 1. (a+b)² = a² + 2ab + b²
+## (a+b)² = a² + 2ab + b²
 
 The visualization of (a+b)² = a² + 2ab + b² can be showed with rectangles, where the sides are proportional to a and b.
 
@@ -16,7 +16,7 @@ You can show the relation of sizes of the pieces to the children.
 ![](ab_02.jpeg)
 
 
-## 2. 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
+## 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
 
 The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as shown below.
 
@@ -25,6 +25,53 @@ The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as s
 We can see the relation of sizes of the pieces of the puzzle.
 
 ![](somameio_02.jpeg)
+
+## Pythagorean theorem
+
+The famous Pythagorean theorem can also be a funny puzzle.
+
+Draw the triangle rectangle in a cardboard, with squares in the legs and.
+hypotenuse.
+
+In this example, this is a 3 - 4 - 5 triangle
+
+![](Pitagoras_moldura.jpeg)
+
+Make little squares with the 5 x 5 big square, and fit the pieces in the hypotenuse square.
+![](pitagoras03.jpeg)
+
+The same pieces can fit in the legs squares, showing visually the proof.
+![](pitagoras02.jpeg)
+
+
+## Sum of odd integers
+
+The sum of odd integers is a square:
+1 + 3 + 5 + ... + (2*n+1) = n²
+
+Here we see strips with sizes proportional to the numbers 1, 3, 5, 7.
+![](somaImpares_01.jpeg)
+
+The pieces can be combined to fit a square!
+![](somaImpares_02.jpeg)
+
+
+
+
+
+## (a+b+c)² = a² + 2ab + 2ac + 2bc + b² + c²
+
+Similarly, there is a nice visualization of (a+b+c)² = a² + 2ab + 2ac + 2bc + b² + c²
+![](abc_02)
+
+
+Showing the pieces side by side:
+![](abc_01)
+
+## Suggestions
+
+You can also try to make at home other visual proofs.
+
 
 
 
