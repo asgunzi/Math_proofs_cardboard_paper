@@ -62,11 +62,11 @@ The pieces can be combined to fit a square!
 ## (a+b+c)² = a² + 2ab + 2ac + 2bc + b² + c²
 
 Similarly, there is a nice visualization of (a+b+c)² = a² + 2ab + 2ac + 2bc + b² + c²
-![](abc_02)
+![](abc_02.jpeg)
 
 
 Showing the pieces side by side:
-![](abc_01)
+![](abc_01.jpeg)
 
 ## Suggestions
 
