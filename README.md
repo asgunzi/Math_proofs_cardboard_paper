@@ -54,9 +54,11 @@ The sum of odd integers is a square:
 1 + 3 + 5 + ... + (2*n+1) = n²
 
 Here we see strips with sizes proportional to the numbers 1, 3, 5, 7.
+
 ![](somaImpares_01.jpeg)
 
 The pieces can be combined to fit a square!
+
 ![](somaimpares_02.jpeg)
 
 
