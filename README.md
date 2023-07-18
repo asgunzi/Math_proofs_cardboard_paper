@@ -1,9 +1,13 @@
-# Mathematical proofs with paper and carboard
+# Mathematical proofs with cardboard and paper
 
 In this tutorial, we'll show Mathematical visual proofs, using paper and cardboard!
 
 This ludic tecnique is specially good for children. These math proofs will be like puzzles.
 
+There are two parts: 2D puzzles, with cardboard; and 3D puzzles, with origami paper!
+
+
+# Part 1 - 2D Puzzles
 
 ## (a+b)² = a² + 2ab + b²
 
@@ -53,7 +57,7 @@ Here we see strips with sizes proportional to the numbers 1, 3, 5, 7.
 ![](somaImpares_01.jpeg)
 
 The pieces can be combined to fit a square!
-![](somaImpares_02.jpeg)
+![](somaimpares_02.jpeg)
 
 
 
@@ -75,7 +79,7 @@ You can also try to make at home other visual proofs.
 
 
 
-## 3D Puzzles with origami cubes
+# 3D puzzles with origami cubes
 
 Let's make a puzzle of "decomposition of a cube", using origami.
 
