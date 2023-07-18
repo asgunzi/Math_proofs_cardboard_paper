@@ -89,7 +89,7 @@ Sum of quarters. In the same spirit as the presented proofs, the sum of quarters
 
 Fibonacci. The always beautiful Fibonacci sequence can be visualized using squares of sizes 1, 1, 2, 3, 5 and so on.
 
-![](fibo.png)
+![](fibonacci-retangular.png)
 
 
 
