@@ -1,8 +1,30 @@
-# Math_art_paper_cardboard
-Mathematical art with paper and cardboard
+# Mathematical proofs with paper and carboard
+
+In this tutorial, we'll show Mathematical visual proofs, using paper and cardboard!
+
+This ludic tecnique is specially good for children. These math proofs will be like puzzles.
 
 
+## 1. (a+b)² = a² + 2ab + b²
 
+The visualization of (a+b)² = a² + 2ab + b² can be showed with rectangles, where the sides are proportional to a and b.
+
+![](ab_01.jpeg)
+
+You can show the relation of sizes of the pieces to the children.
+
+![](ab_02.jpeg)
+
+
+## 2. 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
+
+The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as shown below.
+
+![](somameio_01.jpeg)
+
+We can see the relation of sizes of the pieces of the puzzle.
+
+![](somameio_02.jpeg)
 
 
 
