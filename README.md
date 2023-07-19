@@ -137,5 +137,13 @@ We will have, in total, 27 unit cubes. For each cube we need 6 pieces of paper, 
 
 
 
+# References and Links
+
+Proofs Without Words - Roger Nelsen
+Proofs Without Words II - Roger Nelsen
+
+[https://ideiasesquecidas.com/laboratorio-de-matematica/](https://ideiasesquecidas.com/laboratorio-de-matematica/)
+
+
 
 
