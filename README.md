@@ -1,6 +1,6 @@
 # Mathematical proofs with cardboard and paper
 
-In this tutorial, we'll show Mathematical visual proofs, using paper and cardboard!
+In this tutorial, we'll show Mathematical visual proofs, using cardboard and paper!
 
 This ludic tecnique is specially good for children. These math proofs will be like puzzles.
 
