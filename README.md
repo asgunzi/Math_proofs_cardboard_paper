@@ -8,7 +8,7 @@ There are two parts: 2D puzzles, with cardboard; and 3D puzzles, with origami pa
 
 Authors:
 - Arnaldo Gunzi
-- Erneé Kozyreff
+- Erneé Kozyreff Filho
 
 
 # Part 1 - 2D Puzzles
@@ -47,8 +47,7 @@ The famous Pythagorean theorem can also be a funny puzzle.
 
 ![](Pitagoras_esquema.PNG)
 
-Draw the triangle rectangle in a cardboard, with squares in the legs and.
-hypotenuse.
+Draw the triangle rectangle in a cardboard, with squares in the legs and in the hypotenuse.
 
 In this example, this is a 3 - 4 - 5 triangle
 
@@ -140,6 +139,7 @@ We will have, in total, 27 unit cubes. For each cube we need 6 pieces of paper, 
 # References and Links
 
 Proofs Without Words - Roger Nelsen
+
 Proofs Without Words II - Roger Nelsen
 
 [https://ideiasesquecidas.com/laboratorio-de-matematica/](https://ideiasesquecidas.com/laboratorio-de-matematica/)
