@@ -74,9 +74,9 @@ Measuring the circunference (17.2 mm)
 
 ![](circle03.png)
 
-The formula is 2 * pi * r = C
+The formula is 2 pi r = C
 
-2 * pi * 2.7 = 17.2
+2 pi 2.7 = 17.2
 
 pi = 	3.18
 
