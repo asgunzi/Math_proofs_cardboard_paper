@@ -113,7 +113,7 @@ Pythagoras: there are several other visual and interesting proofs. One particula
 
 ![](pitagoras_alt.png)
 
-Sum of quarters. In the same spirit as the presented proofs, the sum of quarters is a interesting proof to be done in cardboard puzzles format:
+Sum of quarters. In the same spirit as the presented proofs, the sum of quarters is interesting to be done in cardboard puzzles format:
 
 ![](umquarto_esquema.PNG)
 
