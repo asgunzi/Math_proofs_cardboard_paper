@@ -29,6 +29,16 @@ You can show the relation of sizes of the pieces to the children.
 ![](ab_02.jpeg)
 
 
+## Sum of internal angles of a triangle
+
+For any triangle...
+
+![](triangle01.jpeg)
+
+The sum of internal angles is 180 degrees.
+
+![](triangle02.jpeg)
+
 ## 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
 
 The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as shown below.
