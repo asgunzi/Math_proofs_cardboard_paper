@@ -124,15 +124,25 @@ The modular units are displayed below.
 
 ![](origamicubes.jpeg)
 
-One cube as photo.
 
 We can do more cubes like this, and glue two or more of them to make the pieces of our puzzle.
 
-To design the puzzle, 
 
-There are endless variations.
+
+## (a+b)³ = a³ + 3a²b + 3ab² + b³
+
+We can easily visualize the above formula using 3D cubes. Considering a = 2 and b = 1, we have one 2x2x2 cube, three 2x2x1 cuboids, three 1x1x2 cuboids, and one 1x1x1 cube.
+
+![](ab_cubo01.jpeg)
+
+These pieces form a 3x3x3 cube, as shown below.
+
+![](ab_cubo02.jpeg)
+
 
 We will have, in total, 27 unit cubes. For each cube we need 6 pieces of paper, resulting in 162 pieces of paper, glue, and a lot of pacience, to assembly this puzzle!
+
+
 
 
 
