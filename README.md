@@ -115,13 +115,14 @@ Fibonacci. The always beautiful Fibonacci sequence can be visualized using squar
 
 # 3D puzzles with origami cubes
 
-Let's make a puzzle of "decomposition of a cube", using origami.
 
-The building block of this is the traditional Sonobe units for modular origami. You can find a tutorial on:
+The building block for the 3D puzzles is the traditional Sonobe units for modular origami. You can find a tutorial on:
 
-https://www.thesprucecrafts.com/modular-origami-cube-box-4082281
+[https://www.thesprucecrafts.com/modular-origami-cube-box-4082281](https://www.thesprucecrafts.com/modular-origami-cube-box-4082281)
 
 The modular units are displayed below.
+
+![](origamicubes.jpeg)
 
 One cube as photo.
 
