@@ -72,6 +72,29 @@ The same pieces can fit in the legs squares, showing visually the proof.
 ![](pitagoras02.jpeg)
 
 
+## Calculating the value of pi
+
+With a cardboad circle and a line, we can have the size of the circunference of a circle.
+
+![](circle01.jpeg)
+
+Measuring the radius (in this case, 2.7mm).
+
+![](circle01.jpeg)
+
+And measuring the circunference (17.2 mm)
+
+![](circle03.png)
+
+The formula is 2*pi*r = C
+
+2*pi*2.7 = 17.2
+
+pi = 	3.18
+
+I believe we can get better estimates with a more skilled measurement...
+
+
 ## Sum of odd integers
 
 The sum of odd integers is a square:
