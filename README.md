@@ -133,7 +133,7 @@ We can do more cubes like this, and glue two or more of them to make the pieces 
 
 We can easily visualize the above formula using 3D cubes.
 
-![](abcubo_esquema.png)
+![](abcubo_esquema.PNG)
 
 
 Considering a = 2 and b = 1, we have one 2x2x2 cube, three 2x2x1 cuboids, three 1x1x2 cuboids, and one 1x1x1 cube.
