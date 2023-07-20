@@ -39,18 +39,6 @@ The sum of internal angles is 180 degrees.
 
 ![](triangle02.jpeg)
 
-## 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
-
-The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as shown below.
-
-![](Soma_meio_esquema.PNG)
-
-![](somameio_01.jpeg)
-
-We can see the relation of sizes of the pieces of the puzzle.
-
-![](somameio_02.jpeg)
-
 ## Pythagorean theorem
 
 The famous Pythagorean theorem can also be a funny puzzle.
@@ -80,9 +68,9 @@ With a cardboad circle and a line, we can have the size of the circunference of 
 
 Measuring the radius (in this case, 2.7mm).
 
-![](circle01.jpeg)
+![](circle02.jpeg)
 
-And measuring the circunference (17.2 mm)
+Measuring the circunference (17.2 mm)
 
 ![](circle03.png)
 
@@ -93,6 +81,19 @@ The formula is 2*pi*r = C
 pi = 	3.18
 
 I believe we can get better estimates with a more skilled measurement...
+
+
+## 1/2 + 1/4 + 1/8 + 1/16 + ... = 1
+
+The series 1/2 + 1/4 + 1/8 + 1/16 + ... = 1 can fit a square of size 1 x 1, as shown below.
+
+![](Soma_meio_esquema.PNG)
+
+![](somameio_01.jpeg)
+
+We can see the relation of sizes of the pieces of the puzzle.
+
+![](somameio_02.jpeg)
 
 
 ## Sum of odd integers
