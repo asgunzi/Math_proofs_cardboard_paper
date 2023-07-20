@@ -2,7 +2,7 @@
 
 In this tutorial, we'll show Mathematical visual proofs, using cardboard and paper!
 
-This ludic tecnique is specially good for children. These math proofs will be like puzzles.
+This ludic tecnique is specially good for children. These math proofs will be like puzzles. Best of all, you can do it yourself, at home.
 
 There are two parts: 2D puzzles, with cardboard; and 3D puzzles, with origami paper!
 
