@@ -133,9 +133,14 @@ Showing the pieces side by side:
 
 You can also try to make at home other visual proofs.
 
+Prove that the area of a paralelogram is equal to basis x height.
+
+![](Losango.PNG)
+
 Pythagoras: there are several other visual and interesting proofs. One particularly interesting and easy to be done at home is the one below.
 
 ![](pitagoras_alt.png)
+
 
 Sum of quarters. In the same spirit as the presented proofs, the sum of quarters is interesting to be done in cardboard puzzles format:
 
