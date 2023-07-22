@@ -187,8 +187,24 @@ These pieces form a 3x3x3 cube, as shown below.
 We will have, in total, 27 unit cubes. For each cube we need 6 pieces of paper, resulting in 162 pieces of paper, glue, and a lot of pacience, to assembly this puzzle!
 
 
+# Sum of squares
+
+There is a beautiful proof of the sum of squares.
+
+1² + 2² + 3² + ... + n² = n (n+1) (n+1/2) 1/3
+![](sum_squares.jpeg)
+
+(Image from book in the references below)
+
+We need three pyramidal cubes of shapes as shown below:
 
 
+With them, we can form the shape as in the proof.
+
+It is not easy to visualize a 3D shape. Having the pieces in hand can make the visualization and comprehension of the formula easier to the user.
+
+
+# Aditional Photos
 
 
 # References and Links
