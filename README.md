@@ -216,11 +216,20 @@ Aerial view:
 ![](sumsquares02.jpeg)
 
 
-Two of the shapes together, with the second rotated 90 degrees. They let a space to the third shapes:
+Two of the shapes together, with the second rotated 90 degrees. How to combine the pieces:
+
+![](detailsum01.jpeg)
+
+
+Result. They let a space to the third shapes:
 
 ![](sumsquares03.jpeg)
 
-With the three shapes, we can put them together to see the same format as in the instruction.
+With the three shapes, we can put them together: 
+
+![](detailsum02.jpeg)
+
+Result is the same format as in the instruction.
 
 ![](sumsquares04.jpeg)
 
