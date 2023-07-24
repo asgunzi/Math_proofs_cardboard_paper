@@ -197,6 +197,19 @@ These pieces form a $3 \times 3 \times 3$ cube, as shown below.
 
 PS: To assemble the puzzle for this example, we used, in total, 27 unit cubes. For each cube we need 6 pieces of paper, resulting in 162 pieces of paper, glue, and a lot of patience! 😵
 
+### Sum of squares $1^2 + 2^2 + 3^2 + \ldots + n^2 = \dfrac{n (n+1) (n+2)}{3}$
+
+There is a beautiful proof of the sum of first $n$ positive integers squared. We need three pyramidal cubes of shapes as shown below. With them, we can form the shape as in the proof.
+
+![](sum_squares.jpeg)
+
+(Source: see reference 1 below.)
+
+It is not easy to visualize a 3D shape. Having the pieces in hand can make the visualization and comprehension of the formula much easier.
+
+
+
+
 
 ## Suggestions
 
@@ -222,16 +235,17 @@ You can also try to build other visual proofs at home.
 
 ![](fibonacci-retangular.png)
 
+### More and more fractals
 
-### Sum of squares $1^2 + 2^2 + 3^2 + \ldots + n^2 = \dfrac{n (n+1) (n+2)}{3}$
+A square Sierpinski fractal is also a good suggestion to be done in cardboard.
 
-There is a beautiful proof of the sum of first $n$ positive integers squared. We need three pyramidal cubes of shapes as shown below. With them, we can form the shape as in the proof.
+![](fractais04.png)
 
-![](sum_squares.jpeg)
+Or a Pythagorean tree:
 
-(Source: see reference 1 below.)
+![](arvore01.png)
 
-It is not easy to visualize a 3D shape. Having the pieces in hand can make the visualization and comprehension of the formula much easier.
+Or whatever your imagination allows!
 
 
 # References and Links
