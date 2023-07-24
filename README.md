@@ -197,6 +197,7 @@ These pieces form a $3 \times 3 \times 3$ cube, as shown below.
 
 PS: To assemble the puzzle for this example, we used, in total, 27 unit cubes. For each cube we need 6 pieces of paper, resulting in 162 pieces of paper, glue, and a lot of patience! 😵
 
+
 ### Sum of squares $1^2 + 2^2 + 3^2 + \ldots + n^2 = \dfrac{n (n+1) (n+2)}{3}$
 
 There is a beautiful proof of the sum of first $n$ positive integers squared. We need three pyramidal cubes of shapes as shown below. With them, we can form the shape as in the proof.
@@ -205,10 +206,22 @@ There is a beautiful proof of the sum of first $n$ positive integers squared. We
 
 (Source: see reference 1 below.)
 
+
+We begin with the modular cube unit shown above, to create the pyramidal cube of shapes. We will need three of them.
+
+
+Aerial view:
+
+With the three shapes, we can put them together to see the formula.
+
+Combining two pyramids:
+
+Combining the three of them:
+
+Another point of view:
+
+
 It is not easy to visualize a 3D shape. Having the pieces in hand can make the visualization and comprehension of the formula much easier.
-
-
-
 
 
 ## Suggestions
