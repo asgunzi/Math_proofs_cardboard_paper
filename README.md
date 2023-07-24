@@ -250,7 +250,7 @@ Or whatever your imagination allows!
 
 # Contacts
 
-Follow us for math and analytics contents!
+Follow us for Math and Analytics contents!
 
 [https://www.linkedin.com/in/arnaldogunzi/](https://www.linkedin.com/in/arnaldogunzi/)
 
