@@ -142,6 +142,31 @@ Put the pieces side by side as shown below to see more clearly the relationship 
 
 ![](abc_01.jpeg)
 
+# Sierpinski Triangle
+
+The Sierpinski Triangle can be made by sucessive smaller triangles as in figure below.
+
+![](Sierpinski.png)
+
+We start with a big triangle.
+
+![](Sierp01.jpeg)
+
+Then we divide it in 4 smaller triangles and cut off the middle one.
+
+![](Sierp02.jpeg)
+
+Then we do it again for the remaining triangles.
+
+![](Sierp03.jpeg)
+
+In the cardboard model, the triangle must be a little smaller than the drawing, because otherwise we will slice the adjacente triangles.
+
+![](Sierp04.jpeg)
+
+We can continue the process until the precision of our knife allows.
+
+Fractals are always beautiful to see and to play.
 
 # Part 2: 3D puzzles with origami cubes
 
