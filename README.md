@@ -144,7 +144,7 @@ Put the pieces side by side as shown below to see more clearly the relationship 
 
 # Sierpinski Triangle
 
-The Sierpinski Triangle can be made by sucessive smaller triangles as in figure below.
+The Sierpinski Triangle can be constructed by sucessively cutting out smaller triangles as in the figure below.
 
 ![](Images/Sierpinski.png)
 
@@ -152,7 +152,7 @@ We start with a big triangle.
 
 ![](Images/Sierp01.jpeg)
 
-Then we divide it in 4 smaller triangles and cut off the middle one.
+Then we divide it into 4 smaller triangles and cut out the middle one.
 
 ![](Images/Sierp02.jpeg)
 
@@ -160,13 +160,14 @@ Then we do it again for the remaining triangles.
 
 ![](Images/Sierp03.jpeg)
 
-In the cardboard model, the triangle must be a little smaller than the drawing, because otherwise we will slice the adjacente triangles.
+In the cardboard model, the triangle must be a little smaller than the drawing, because otherwise we will slice the adjacent triangles.
 
 ![](Images/Sierp04.jpeg)
 
 We can continue the process until the precision of our knife allows.
 
-Fractals are always beautiful to see and to play.
+Fractals are always beautiful to see and to play with.
+
 
 # Part 2: 3D puzzles with origami cubes
 
@@ -187,7 +188,7 @@ We can visualize the above formula using 3D cubes.
 
 ![](Images/abcubo_esquema.PNG)
 
-In our example, we take $A = 2$ and $B = 1$, so we have a $2 \times 2 \times 2$ cube, three $2 \times 24 \times 1$ cuboids, three $1 \times 1 \times 2$ cuboids, and one $1 \times 1 \times 1$ cube.
+In our example, we take $A = 2$ and $B = 1$, so we have a $2 \times 2 \times 2$ cube, three $2 \times 2 \times 1$ cuboids, three $2 \times 1 \times 1$ cuboids, and one $1 \times 1 \times 1$ cube.
 
 ![](Images/ab_cubo01.jpeg)
 
@@ -195,19 +196,19 @@ These pieces form a $3 \times 3 \times 3$ cube, as shown below.
 
 ![](Images/ab_cubo02.jpeg)
 
-PS: To assemble the puzzle for this example, we used, in total, 27 unit cubes. For each cube we need 6 pieces of paper, resulting in 162 pieces of paper, glue, and a lot of patience! 😵
+P.S. To assemble the puzzle for this example, we used, in total, 27 unit cubes. For each cube we need 6 pieces of paper, resulting in 162 pieces of paper, glue, and a lot of patience! 😵
 
 
 ### Sum of squares $1^2 + 2^2 + 3^2 + \ldots + n^2 = \dfrac{n (n+1) (n + 1/2)}{3}$
 
-There is a beautiful proof of the sum of first $n$ positive integers squared. We need three pyramidal cubes of shapes as shown below. With them, we can form the shape as in the proof.
+There is a beautiful proof of the sum of the first $n$ positive integers squared. We need three pyramidal cubes of shapes as shown below. With them, we can form the shape as in the proof.
 
 ![](Images/sum_squares.jpeg)
 
 (Source: see reference 1 below.)
 
 
-We begin with the modular cube unit shown above, to create the pyramidal cube of shapes. We will need three of them.
+We begin with the modular cube unit shown above to create the pyramidal cube of shapes. We will need three of them.
 
 ![](Images/sumsquares01.jpeg)
 
@@ -216,20 +217,19 @@ Aerial view:
 ![](Images/sumsquares02.jpeg)
 
 
-Two of the shapes together, with the second rotated 90 degrees. How to combine the pieces:
+Place two of the shapes together, with the second rotated 90 degrees. This is how to combine the pieces:
 
 ![](Images/detailsum01.jpeg)
 
-
-Result. They let a space to the third shapes:
+The result leaves a space to the third shape:
 
 ![](Images/sumsquares03.jpeg)
 
-With the three shapes, we can put them together: 
+With the third, we put everything together:
 
 ![](Images/detailsum02.jpeg)
 
-Result is the same format as in the instruction.
+The result has the same format as in the instruction.
 
 ![](Images/sumsquares04.jpeg)
 
@@ -237,9 +237,9 @@ Another point of view:
 
 ![](Images/sumsquares05.jpeg)
 
-Note that there is a "half" of a layer above the rectangular shape.
+Note that there is a "half layer" above the rectangular shape.
 
-It is not easy to visualize a 3D shape in our mind. Having the pieces in hand can make the visualization and comprehension of the formula much easier.
+It is not easy to visualize a 3D shape in our mind. Having the pieces at hand can make the visualization and comprehension of the formula much easier.
 
 
 ## Suggestions
@@ -281,14 +281,14 @@ Or whatever your imagination allows!
 
 # Conclusion and Contacts
 
-In this little tutorial, we showed how to use simple materials as cardboard and paper to create mathematical proofs that we can touch, feel and understand!
+In this little tutorial, we showed how to use simple materials, such as cardboard and paper, to create mathematical proofs that we can touch, feel and understand!
 
 Follow us for Math and Analytics contents!
 
-[https://www.linkedin.com/in/arnaldogunzi/](https://www.linkedin.com/in/arnaldogunzi/)
+[https://www.linkedin.com/in/arnaldogunzi](https://www.linkedin.com/in/arnaldogunzi)
 
 
-[https://br.linkedin.com/in/ekozyreff](https://br.linkedin.com/in/ekozyreff)
+[https://www.linkedin.com/in/ekozyreff](https://www.linkedin.com/in/ekozyreff)
 
 
 # References and Links
@@ -298,7 +298,4 @@ Follow us for Math and Analytics contents!
 2. Nelsen, Roger, Proofs without words II: more exercises in visual thinking. Washington, DC: The Mathematical Association of America, 2001.
 
 3. [https://ideiasesquecidas.com/laboratorio-de-matematica/](https://ideiasesquecidas.com/laboratorio-de-matematica/)
-
-
-
-
+   
