@@ -248,6 +248,16 @@ Or a Pythagorean tree:
 Or whatever your imagination allows!
 
 
+# Contacts
+
+Follow us for math and analytics contents!
+
+[https://www.linkedin.com/in/arnaldogunzi/](https://www.linkedin.com/in/arnaldogunzi/)
+
+
+[https://br.linkedin.com/in/ekozyreff](https://br.linkedin.com/in/ekozyreff)
+
+
 # References and Links
 
 1. Nelsen, Roger. Proofs without Words: exercises in visual thinking. Washington DC: The Mathematical Association of America, 1993.
