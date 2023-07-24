@@ -209,19 +209,26 @@ There is a beautiful proof of the sum of first $n$ positive integers squared. We
 
 We begin with the modular cube unit shown above, to create the pyramidal cube of shapes. We will need three of them.
 
+![](sumsquares01.jpeg)
 
 Aerial view:
 
+![](sumsquares02.jpeg)
+
+
+Two of the shapes together, forming a space to the third:
+
+![](sumsquares03.jpeg)
+
 With the three shapes, we can put them together to see the formula.
 
-Combining two pyramids:
-
-Combining the three of them:
+![](sumsquares04.jpeg)
 
 Another point of view:
 
+![](sumsquares05.jpeg)
 
-It is not easy to visualize a 3D shape. Having the pieces in hand can make the visualization and comprehension of the formula much easier.
+It is not easy to visualize a 3D shape in our mind. Having the pieces in hand can make the visualization and comprehension of the formula much easier.
 
 
 ## Suggestions
@@ -261,7 +268,9 @@ Or a Pythagorean tree:
 Or whatever your imagination allows!
 
 
-# Contacts
+# Conclusion and Contacts
+
+In this little tutorial, we showed how to use simple materials as cardboard and paper to create mathematical proofs that we can touch, feel and understand!
 
 Follow us for Math and Analytics contents!
 
